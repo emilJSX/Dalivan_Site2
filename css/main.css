@@ -1,0 +1,116 @@
+body,html {
+    background-color: khaki;
+}
+
+.header-1 {
+    background-color: #6B6B6B;
+    padding: 0.7em;
+    margin-left: -1.1em;
+    width: 102.4%;
+}
+
+.header-txt {
+    color: bisque;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-txt:hover {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+.header-txt-two {
+    text-decoration: none;
+    color: greenyellow;
+    font-weight: bold;
+    margin-left: 54em;
+}
+
+.header-txt-two:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.header-txt-three {
+    text-decoration: none;
+    color: greenyellow;
+    font-weight: bold;
+    margin-left: 2em;
+}
+
+.header-txt-three:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.header-txt-four {
+    text-decoration: none;
+    font-weight: bold;
+    color: greenyellow;
+    margin-left: 4em;
+}
+
+.header-txt-four:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.header-txt-five {
+    text-decoration: none;
+    color: greenyellow;
+    font-weight: bold;
+}
+
+.header-txt-five:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.body-1 {
+    border: 1px solid grey;
+    margin-top: 2em;
+    padding: 1.5em;
+}
+
+.body-2 {
+    border: 1px solid grey;
+    margin-top: 2em;
+    padding: 1.5em;
+}
+
+.txt-2 {
+text-align: center;
+margin-top: 3em;
+font-family: initial;
+font-style: italic;
+line-height: 28px;
+}
+
+.txt-3 {
+    text-align: center;
+    margin-top: 3em;
+    font-family: initial;
+    font-style: italic;
+    line-height: 28px;
+}
+
+.body-3 {
+    border: 1px solid grey;
+    margin-top: 2em;
+    padding: 1em;
+}
+
+.body-4 {
+margin-top: -15em;
+border: 1px solid gray;
+padding: 0.5em;
+}
+
+.txt-7 {
+    text-align: center;
+    margin-top: 3em;
+    font-family: initial;
+    font-style: italic;
+    line-height: 28px;
+}
